@@ -10,3 +10,9 @@ Also recommended: Visualizing Git Concepts with D3"
 
 https://marklodato.github.io/visual-git-guide/index-en.html?no-svg#reset
 
+### Git stash 
+
+* http://www.codeblocq.com/2016/02/Stash-your-changes-before-switching-branch/
+
+
+
